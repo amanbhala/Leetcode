@@ -1,4 +1,4 @@
-Leetcode questions
+Leetcode solutions
 
 |   #    |  Title          |   Solution           |  Difficulty   |
 | :---:  | :-------------: | :-------------:      | :-----:       |
