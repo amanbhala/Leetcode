@@ -10,3 +10,4 @@ Leetcode solutions
 |  101   | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  |  C++  | Easy  |
 |  112   | [Path Sum](https://leetcode.com/problems/path-sum/)  |  C++  |  Easy  |
 | 105    | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  C++  | Medium |  
+| 106 | [https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | C++ | Medium |
