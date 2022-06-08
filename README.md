@@ -11,3 +11,4 @@ Leetcode solutions
 |  112   | [Path Sum](https://leetcode.com/problems/path-sum/)  |  C++  |  Easy  |
 | 105    | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  C++  | Medium |  
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | C++ | Medium |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | C++ | Medium |
