@@ -17,3 +17,4 @@ Leetcode solutions
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | C++ | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++ | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++ | Easy |
