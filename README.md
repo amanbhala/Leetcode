@@ -18,3 +18,6 @@ Leetcode solutions
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | C++ | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++ | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++ | Easy |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | C++ | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium | 
