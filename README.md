@@ -20,4 +20,5 @@ Leetcode solutions
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++ | Easy |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | C++ | Medium |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium | 
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | C++ | Easy |
