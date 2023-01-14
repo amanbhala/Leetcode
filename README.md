@@ -22,3 +22,4 @@ Leetcode solutions
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | C++ | Medium |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | C++ | Easy |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | C++ | Medium |
