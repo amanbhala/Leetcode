@@ -13,6 +13,7 @@ Leetcode solutions
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | C++ | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | C++ | Medium |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | C++ | Medium |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | C++ | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | C++ | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
