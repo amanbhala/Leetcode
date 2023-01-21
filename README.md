@@ -26,3 +26,4 @@ Leetcode solutions
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | C++ | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | C++ | Medium |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | C++ | Medium |
