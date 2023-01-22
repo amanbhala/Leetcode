@@ -29,3 +29,4 @@ Leetcode solutions
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | C++ | Medium|
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | C++ | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Medium | C++ |
