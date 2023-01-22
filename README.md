@@ -28,3 +28,4 @@ Leetcode solutions
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | C++ | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | C++ | Medium|
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | C++ | Medium |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | C++ |
