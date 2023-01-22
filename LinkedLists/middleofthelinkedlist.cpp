@@ -22,16 +22,35 @@ public:
         }
         index=index/2;
         cur=head;
-        if(index%2){
-            while(index--){
-                cur=cur->next;
-            }
-            return cur;
-        }
         while(index--){
             cur=cur->next;
         }
         return cur;
-        // Approach -2 
+        // Approach -2 Store O(N) Space Complexity solution
+        vector<int> values;
+        if(head==NULL)
+        return NULL;
+        ListNode* cur=head;
+        while(cur){
+            values.push_back(cur->val);
+            cur=cur->next;
+        }
+        int index=values.size()/2;
+        cur=head;
+        while(index--){
+            cur=cur->next;
+        }
+        return cur;
+        // Approach -3 Using Two pointers
+        if(head==NULL){
+            return NULL;
+        }
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast&&fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
     }
 };
