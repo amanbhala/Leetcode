@@ -35,5 +35,6 @@ Leetcode solutions
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | C++ | Medium |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | C++ | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | C++ | Medium |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | C++ | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
