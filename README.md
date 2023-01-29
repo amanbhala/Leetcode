@@ -17,6 +17,7 @@ Leetcode solutions
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | C++ | Medium |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | C++ | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | C++ | Medium |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | C++ | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | C++ | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
