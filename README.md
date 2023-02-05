@@ -2,6 +2,7 @@ Leetcode solutions
 
 |   #    |  Title          |   Solution           |  Difficulty   |
 | :---:  | :-------------: | :-------------:      | :-----:       |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 |  144   | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)    |  C++         |  Easy       |
 |  94    | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   |  C++  |  Easy   |
 |  145   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  |  C++ |  Easy |
