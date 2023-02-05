@@ -38,6 +38,7 @@ Leetcode solutions
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | C++ | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | C++ | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | C++ | Medium |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
