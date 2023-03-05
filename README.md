@@ -41,5 +41,6 @@ Leetcode solutions
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | C++ | Medium |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
+| 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | C++ | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
