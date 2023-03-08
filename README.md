@@ -3,6 +3,7 @@ Leetcode solutions
 |   #    |  Title          |   Solution           |  Difficulty   |
 | :---:  | :-------------: | :-------------:      | :-----:       |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++| Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
