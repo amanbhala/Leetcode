@@ -3,6 +3,7 @@ Leetcode solutions
 |   #    |  Title          |   Solution           |  Difficulty   |
 | :---:  | :-------------: | :-------------:      | :-----:       |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++| Medium |
@@ -25,6 +26,7 @@ Leetcode solutions
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | C++ | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | C++ | Medium|
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | C++ | Medium |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | C++ | Medium |
 |  144   | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)    |  C++         |  Easy       |
 |  145   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  |  C++ |  Easy |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | C++ | Medium |
@@ -38,7 +40,9 @@ Leetcode solutions
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | C++ | Medium |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | C++ | Medium |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | C++ | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | C++ | Easy |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | C++ | Medium |
