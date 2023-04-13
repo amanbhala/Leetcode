@@ -42,10 +42,13 @@ Leetcode solutions
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | C++ | Medium |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | C++ | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | C++ | Easy |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | C++ | Easy |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | C++ | Easy |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | C++ | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | C++ | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | C++ | Medium |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | C++ | Medium |
