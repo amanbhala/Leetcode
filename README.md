@@ -9,6 +9,7 @@ Leetcode solutions
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++| Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++ | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | C++ | Easy |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | C++ | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   |  C++  |  Easy   |
@@ -49,10 +50,12 @@ Leetcode solutions
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | C++ | Easy |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | C++ | Easy |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | C++ | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | C++ | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | C++ | Easy |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | C++ | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | C++ | Medium |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | C++ | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |

@@ -1,3 +1,4 @@
+// Using DFS
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -26,5 +27,48 @@ public:
             dfs(grid,s,row,col+1,gridrow,gridcol);
             dfs(grid,s,row,col-1,gridrow,gridcol);
         }
+    }
+};
+
+
+// Using BFS
+class Solution {
+public:
+    int numIslands(vector<vector<char>>& grid){
+        int row=grid.size();
+        int col=grid[0].size();
+        int result=0;
+        queue<pair<int,int>>q;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(grid[i][j]=='1'){
+                    result++;
+                    q.push({i,j});
+                    grid[i][j]='0';
+                    while(!q.empty()){
+                        int r=q.front().first;
+                        int c=q.front().second;
+                        q.pop();
+                        if(r+1<row&&grid[r+1][c]=='1'){
+                            q.push({r+1,c});
+                            grid[r+1][c]='0';
+                        }
+                        if(r-1>=0&&grid[r-1][c]=='1'){
+                            q.push({r-1,c});
+                            grid[r-1][c]='0';
+                        }
+                        if(c+1<col&&grid[r][c+1]=='1'){
+                            q.push({r,c+1});
+                            grid[r][c+1]='0';
+                        }
+                        if(c-1>=0&&grid[r][c-1]=='1'){
+                            q.push({r,c-1});
+                            grid[r][c-1]='0';
+                        }
+                    }
+                }
+            }
+        }
+        return result;
     }
 };
