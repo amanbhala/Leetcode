@@ -49,6 +49,8 @@ Leetcode solutions
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | C++ | Easy |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | C++ | Medium |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | C++ | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | C++ | Easy |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | C++ | Easy |
