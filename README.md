@@ -2,6 +2,8 @@ Leetcode solutions
 
 |   #    |  Title          |   Solution           |  Difficulty   |
 | :---:  | :-------------: | :-------------:      | :-----:       |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | C++ | Easy |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | C++ | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
@@ -46,6 +48,7 @@ Leetcode solutions
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | C++ | Easy |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | C++ | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | C++ | Easy |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | C++ | Medium | 
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | C++ | Easy |
@@ -60,7 +63,9 @@ Leetcode solutions
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | C++ | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | C++ | Medium |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | C++ | Medium |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | C++ | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | C++ | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | C++ | Easy |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | C++ | Medium |
