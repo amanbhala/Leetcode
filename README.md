@@ -7,6 +7,8 @@ Leetcode solutions
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | C++ | Hard |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++| Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
@@ -56,7 +58,9 @@ Leetcode solutions
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | C++ | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | C++ | Medium |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | C++ | Easy |
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | C++ | Medium |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | C++ | Easy |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | C++ | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | C++ | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | C++ | Easy |
@@ -68,4 +72,6 @@ Leetcode solutions
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | C++ | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | C++ | Easy |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | C++ | Easy |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | C++ | Medium |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | C++ | Medium |
