@@ -60,7 +60,9 @@ Leetcode solutions
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | C++ | Easy |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | C++ | Medium |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | C++ | Easy |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | C++ | Easy |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | C++ | Medium |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | C++ | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | C++ | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | C++ | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | C++ | Easy |
@@ -69,9 +71,16 @@ Leetcode solutions
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | C++ | Medium |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | C++ | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | C++ | Medium |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | C++ | Easy |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | C++ | Easy |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | C++ | Easy |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | C++ | Easy |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | C++ | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | C++ | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | C++ | Easy |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | C++ | Easy |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | C++ | Easy |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | C++ | Medium |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | C++ | Medium |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | C++ | Easy |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | C++ | Medium |
