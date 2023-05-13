@@ -11,6 +11,8 @@ Leetcode solutions
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++| Medium |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | C++ | Medium |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | C++ | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++ | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | C++ | Easy |
@@ -52,6 +54,7 @@ Leetcode solutions
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | C++ | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | C++ | Easy |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | C++ | Medium | 
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | C++ | Easy |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | C++ | Medium |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | C++ | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | C++ | Easy |
@@ -79,7 +82,10 @@ Leetcode solutions
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | C++ | Easy |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | C++ | Easy |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | C++ | Easy |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | C++ | Easy |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | C++ | Medium |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | C++ | Easy |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | C++ | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | C++ | Easy |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | C++ | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | C++ | Medium |
@@ -88,9 +94,12 @@ Leetcode solutions
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | C++ | Easy |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | C++ | Medium |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | C++ | Easy |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | C++ | Easy |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | C++ | Medium |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | C++ | Hard |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | C++ | Medium |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | C++ | Medium |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | C++ | Easy |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | C++ | Easy |
+| 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | C++ | Medium |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | C++ | Medium |
